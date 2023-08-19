@@ -1,0 +1,12 @@
+{
+  "roots": [
+    "abbey",
+    "soc2"
+  ],
+  "metadata": {
+    "required_builtins": {
+      "builtin1": [
+      ]
+    }
+  }
+}
