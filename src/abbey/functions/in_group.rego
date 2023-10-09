@@ -7,6 +7,6 @@ import future.keywords.in
 # The `group_name` input is a string
 # Valid group names are alphanumeric strings
 # This function compares against data under the `system.abbey.group_memberships` namespace.
-in_group(group_name) := live if {
-        live := group_name in data.system.abbey.group_memberships
+in_group(group_name) := true if {
+        group_name in data.system.abbey.group_memberships
 }
