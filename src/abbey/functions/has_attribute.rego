@@ -1,3 +1,5 @@
+package abbey.functions
+
 import future.keywords.if
 
 has_attribute(name, value) := true if {
