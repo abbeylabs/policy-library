@@ -1,0 +1,5 @@
+rules:
+  idiomatic:
+    no-defined-entrypoint:
+      # This repo consists of a set of library functions, which therefore have no entrypoint.
+      level: ignore
