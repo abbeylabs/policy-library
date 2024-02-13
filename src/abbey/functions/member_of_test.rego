@@ -1,7 +1,7 @@
 package abbey.functions_test
 
 import data.abbey.functions
-import future.keywords.if
+import rego.v1
 
 fixture := {
 	"googleworkspace": {"groups": [

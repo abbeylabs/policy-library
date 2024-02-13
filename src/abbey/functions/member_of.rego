@@ -1,7 +1,6 @@
 package abbey.functions
 
-import future.keywords.if
-import future.keywords.in
+import rego.v1
 
 apps := [
 	"googleworkspace",
