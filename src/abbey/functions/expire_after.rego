@@ -1,6 +1,6 @@
 package abbey.functions
 
-import future.keywords.if
+import rego.v1
 
 # METADATA
 # title: Expire After
